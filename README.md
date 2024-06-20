@@ -80,7 +80,7 @@ For more detailed information, please refer to the [PDF Report](https://github.c
  
   ## Team Picture
 
-![Team Picture](path/to/team-picture.jpg)
+![Team Picture](https://github.com/Khalid-Ali-Farah/workshop2-smart-parking-system-2023/blob/916876e4206ff5589817750d4d108fd65041d7df/IMG_2784.PNG)
 
 ---
 
