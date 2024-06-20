@@ -67,7 +67,7 @@ The Smart Parking System aims to streamline the parking process using modern tec
 
 ## PDF Report
 
-For more detailed information, please refer to the [PDF Report](path/to/report.pdf).
+For more detailed information, please refer to the [PDF Report](https://github.com/Khalid-Ali-Farah/workshop2-smart-parking-system-2023/blob/d84e876d48959d6f9c1f4ad0b63d449a93a6c271/Group%202%20Report.pdf).
 
 ## Team Members
 
