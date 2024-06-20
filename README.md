@@ -77,6 +77,10 @@ For more detailed information, please refer to the [PDF Report](https://github.c
   - Firzana Huda Binti Azreel (B032010236)
   - Intan Farra Liyanna Binti Suhaimi (B032010474)
   - Khalid Ali Farah (B032020051)
+ 
+  ## Team Picture
+
+![Team Picture](path/to/team-picture.jpg)
 
 ---
 
