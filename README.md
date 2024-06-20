@@ -65,6 +65,10 @@ The Smart Parking System aims to streamline the parking process using modern tec
 - **Automated Car Plate Recognition**: Utilizes object detection and OCR for automatic recognition.
 - **QR Code Implementation**: Provides a secure method for users to retrieve their vehicles.
 
+## PDF Report
+
+For more detailed information, please refer to the [PDF Report](path/to/report.pdf).
+
 ## Team Members
 
 - **Supervisor**: TS. Maslita Binti Abd Aziz
