@@ -2,7 +2,7 @@
 
 # Smart Parking System
 
-![Poster](path/to/poster-image.jpg)
+![Poster](https://github.com/Khalid-Ali-Farah/workshop2-smart-parking-system-2023/blob/e4c55aae63a6b37043efcb6111cdb53c7fc50c8a/Group2_Poster%20conv%201.png)
 
 The Smart Parking System is an innovative solution designed to simplify vehicle parking. It uses advanced machine learning and image processing techniques to match QR codes with vehicle plate numbers, minimizing congestion at parking gates and eliminating the need for physical parking tickets.
 
